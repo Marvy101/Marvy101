@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marvy101
-- 👀 I’m interested in Technology?
+- 👀 I think I am interested in Technology
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on AI, Blockchain Technologies and VR.
 - 📫 You can reach me on marvyteach@gmail.com
