@@ -1,5 +1,5 @@
 
-- 🌱 I  build cool things.
+- 🌱 founder Sorce - tinder but for jobs.
 - 📫 You can reach me at marvyteach@gmail.com
 <!---
 Marvy101/Marvy101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
